@@ -15,4 +15,7 @@ public class avg {
         }
     }
 
-//create array to find smalles for values 
+//create array to find smalles for values PS C:\Users\nbehe\Music\MCA\SEM 1\JAVA.PRACTICAL_sem1_MCA\java_prac6> javac avg.java  
+// PS C:\Users\nbehe\Music\MCA\SEM 1\JAVA.PRACTICAL_sem1_MCA\java_prac6> java avg
+// Average 172.5
+// PS C:\Users\nbehe\Music\MCA\SEM 1\JAVA.PRACTICAL_sem1_MCA\java_prac6> 

@@ -7,3 +7,10 @@ public class index {
     }
     
 }
+// // PS C:\Users\nbehe\Music\MCA\SEM 1\JAVA.PRACTICAL_sem1_MCA\java_prac6> javac index.java
+// PS C:\Users\nbehe\Music\MCA\SEM 1\JAVA.PRACTICAL_sem1_MCA\java_prac6> java index
+// BMW
+// VOLVO
+// FORD
+// MAZSA
+// PS C:\Users\nbehe\Music\MCA\SEM 1\JAVA.PRACTICAL_sem1_MCA\java_prac6> 

@@ -9,3 +9,11 @@ public class ArrayStringExample {
         }
     }
 }
+// PS C:\Users\nbehe\Music\MCA\SEM 1\JAVA.PRACTICAL_sem1_MCA\java_prac6> javac ArrayStringExample.java
+// PS C:\Users\nbehe\Music\MCA\SEM 1\JAVA.PRACTICAL_sem1_MCA\java_prac6> java ArrayStringExample.java 
+// Apple
+// Banana
+// Mango
+// Orange
+// Grapes
+// PS C:\Users\nbehe\Music\MCA\SEM 1\JAVA.PRACTICAL_sem1_MCA\java_prac6> 
