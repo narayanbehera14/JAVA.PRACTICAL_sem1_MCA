@@ -32,3 +32,6 @@ public class TwoDArrayInputDisplay {
         scanner.close();
     }
 }
+
+//find out given no.is prime or not ?
+//craete 2 method
